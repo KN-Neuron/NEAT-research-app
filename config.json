@@ -1,0 +1,16 @@
+{
+  "num_series": 3,
+  "iterations_per_series": 3,
+  "fixation_cross_duration": 3.0,
+  "reading_duration": 10.0,
+  "input_duration": 10.0,
+  "break_duration": 30.0,
+  "demo": {
+    "num_series": 1,
+    "iterations_per_series": 2,
+    "fixation_cross_duration": 3.0,
+    "reading_duration": 10.0,
+    "input_duration": 10.0,
+    "break_duration": 30.0
+  }
+}

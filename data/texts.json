@@ -1,0 +1,97 @@
+{
+  "series": [
+    {
+      "series_id": 1,
+      "instruction": "Policz, ile razy w tekście występuje słowo „kot” (dokładnie w formie podstawowej „kot”). Wpisz wynik jako liczbę.",
+      "texts": [
+        {
+          "id": "s1_t1",
+          "text": "<p>Mały <b>kot</b> siedział na parapecie i uważnie obserwował ogród. Nagle drugi <b>kot</b> przebiegł przez trawnik, a trzeci <b>kot</b> schował się za wysokim drzewem.</p>",
+          "correct_answer": "3"
+        },
+        {
+          "id": "s1_t2",
+          "text": "<p>W słoneczne popołudnie <b>kot</b> drzemał na miękkim fotelu. Przez otwarte okno wpadł barwny motyl, ale leniwy <b>kot</b> nawet nie otworzył oczu.</p>",
+          "correct_answer": "2"
+        },
+        {
+          "id": "s1_t3",
+          "text": "<p>Na podwórku bawiły się psy, a rudy <b>kot</b> przyglądał im się z dachu. Obok niego usiadł czarny <b>kot</b>, po czym kolejny <b>kot</b> wskoczył na murek, a czwarty <b>kot</b> zamruczał cicho.</p>",
+          "correct_answer": "4"
+        },
+        {
+          "id": "s1_t4",
+          "text": "<p>W starym młynie mieszkał tylko jeden <b>kot</b>, który doskonale znał każdy zakamarek budynku i nocami pilnował zapasów zboża.</p>",
+          "correct_answer": "1"
+        },
+        {
+          "id": "s1_t5",
+          "text": "<p>W parku spacerowało wiele zwierząt, jednak żaden pies ani ptak nie zwracał uwagi na cichy szum drzew i opadające jesienne liście.</p>",
+          "correct_answer": "0"
+        }
+      ]
+    },
+    {
+      "series_id": 2,
+      "instruction": "Policz, ile słów w wyświetlonym tekście zostało wyróżnionych pogrubieniem. Wpisz wynik jako liczbę.",
+      "texts": [
+        {
+          "id": "s2_t1",
+          "text": "<p>Współczesna <b>neurobiologia</b> pozwala dokładnie badać aktywność <b>mózgu</b> podczas wykonywania skomplikowanych zadań <b>poznawczych</b>.</p>",
+          "correct_answer": "3"
+        },
+        {
+          "id": "s2_t2",
+          "text": "<p>Badanie <b>okulograficzne</b> precyzyjnie rejestruje ruchy gałek ocznych oraz czas trwania poszczególnych <b>fiksacji</b> wzroku na ekranie.</p>",
+          "correct_answer": "2"
+        },
+        {
+          "id": "s2_t3",
+          "text": "<p>Sygnał <b>elektroencefalograficzny</b> charakteryzuje się wysoką <b>rozdzielczością</b> czasową, co umożliwia dokładne <b>śledzenie</b> procesów <b>uwagi</b>.</p>",
+          "correct_answer": "4"
+        },
+        {
+          "id": "s2_t4",
+          "text": "<p>Każdy uczestnik eksperymentu wykonuje zadanie w warunkach <b>laboratoryjnych</b> przy stałym oświetleniu pomieszczenia badawczego.</p>",
+          "correct_answer": "1"
+        },
+        {
+          "id": "s2_t5",
+          "text": "<p>Skupienie wzroku na centralnym punkcie ekranu przed prezentacją bodźca pozwala ujednolicić warunki początkowe każdego pomiaru.</p>",
+          "correct_answer": "0"
+        }
+      ]
+    },
+    {
+      "series_id": 3,
+      "instruction": "Oblicz sumę wszystkich liczb (zapisanych cyframi), które pojawiają się w tekście. Wpisz wynik jako liczbę.",
+      "texts": [
+        {
+          "id": "s3_t1",
+          "text": "<p>W pierwszym etapie badania wzięło udział <b>4</b> studentów, w drugim dołączyło <b>5</b> osób, a w trzecim jeszcze <b>3</b> uczestników.</p>",
+          "correct_answer": "12"
+        },
+        {
+          "id": "s3_t2",
+          "text": "<p>Każda sesja pomiarowa składała się z <b>2</b> części trwających po <b>6</b> minut oraz krótkiego podsumowania trwającego <b>1</b> minutę.</p>",
+          "correct_answer": "9"
+        },
+        {
+          "id": "s3_t3",
+          "text": "<p>Na półce w laboratorium znajdowało się <b>7</b> czujników optycznych oraz <b>8</b> przewodów sygnałowych przygotowanych do testów.</p>",
+          "correct_answer": "15"
+        },
+        {
+          "id": "s3_t4",
+          "text": "<p>Zespół badawczy przeanalizował <b>10</b> zapisów z porannej sesji pomiarowej oraz <b>4</b> zapisy z sesji popołudniowej.</p>",
+          "correct_answer": "14"
+        },
+        {
+          "id": "s3_t5",
+          "text": "<p>Czujnik rejestrował dane przez <b>3</b> sekundy spoczynku i <b>5</b> sekund aktywacji, powtarzając ten krótki pomiar <b>2</b> razy.</p>",
+          "correct_answer": "10"
+        }
+      ]
+    }
+  ]
+}
